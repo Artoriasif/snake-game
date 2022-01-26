@@ -1,0 +1,12 @@
+body {
+  background-image: linear-gradient(to right, #595959, #66c2ff);
+}
+.position {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.titulo {
+  font-size: 40px;
+}
